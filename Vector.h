@@ -1,7 +1,7 @@
 /*
  * @file Vector.h
  * @author Reece Cosbey
- * @date 2023-09-16
+ * @date 2024-09-27
  * @brief this file holds the prototypes for the Vector class
  *
  */
